@@ -93,3 +93,28 @@ p
 	background-color: white;
 	width : 1020px;
 }
+div {
+    float:left; 
+}
+div colonne2
+ {
+    float: right;
+}
+div centre {
+	float: center;
+}
+p {
+	font-family: Josefin Sans;
+    font-size: 14px;
+	height: 260px;
+    width:480px;
+	color: #7a7a7a
+}
+h2 {
+	font-family: Josefin Sans; 
+    font-size: 18px;
+}
+img {
+    height: 195px;
+    width:260px;
+}
